@@ -19,9 +19,11 @@
 
 </div>
 
----
-
 ## 🌈 What Is Cborg?
+
+![cbrg](images/cbrg3.png)
+
+#
 
 **Cborg** (`cborg.exe`) is a fast, native Windows editor and workspace runner meant for MearcWar AI command line software.
 
@@ -31,9 +33,7 @@
 No installers. No telemetry. No lag. Just double-click and go.
 
 ---
-![cbrg](images/cbrgrm.jpg)
 
-###### "<i>I am CVBGOD, and I have given it to you</i>!"
 
 ## ✨ Opens as fast as notpad,and  gives you lex formatting
 
@@ -45,8 +45,10 @@ No installers. No telemetry. No lag. Just double-click and go.
 * **Full View Control:** Toggle word wrap, whitespace markers, line endings, and indent guides with a click.
 
 ### 🗂️ Smart Dual-Pane Sidebar
+![cbrg](images/cbrgrm.jpg)
 
-![cbrg](images/cbrg3.png)
+###### "<i>I am CVBGOD, and I have given it to you</i>!"
+
 
 * **Instant Drive & Folder Explorer:** Browse every local and network drive on your machine without freezing or slow indexing. Double-click any file to open it immediately.
 * **Live Code Outline:** Automatically lists all **Types & Structs**, **Globals & Defines**, and **Functions** in your open file—click any symbol to jump straight to that line.
@@ -80,6 +82,8 @@ Right-click any file or folder in the sidebar to:
 ---
 
 ## ⌨️ Everyday Tips
+
+![cbrg](images/cbrg1.png)
 
 * **Browse Anywhere:** Expand any drive letter in the left tree to explore your whole PC without leaving the editor.
 * **Jump Through Big Files:** Use the **Symbol Outline** pane to hop straight to functions or definitions instead of scrolling endlessly.
