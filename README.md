@@ -35,11 +35,12 @@ No installers. No telemetry. No lag. Just double-click and go.
 ---
 ![cbrg](images/cbrgrm.jpg)
 
-
+###### "<i>I am CVBGOD, and I have given it to you</i>!"
 
 ## ✨ Opens as fast as notpad,and  gives you lex formatting
 
 ### ⚡ Instant Startup & Crisp Editing
+
 * **Opens in a Blink:** Runs natively on Windows with zero heavy runtimes or background bloat.
 * **Built-In Syntax Highlighting:** Clean color highlighting out of the box for **C/C++**, **Python**, **JSON**, **Batch scripts**, and **Plain Text**.
 * **Obsidian Dark & Light Themes:** Switch between high-contrast **Obsidian Dark** mode and clean **Light** mode anytime.
@@ -66,7 +67,8 @@ Right-click any file or folder in the sidebar to:
 ---
 
 ## 📥 Quick Start (No Installation Needed)
-
+![cbrg](images/cborg-ss1.png)
+![cbrg](images/cborg-ss2.png)
 1. **Download & Extract** the Cborg release folder anywhere on your PC (make sure `cborg.exe`, `cborg.dll`, `Scintilla.dll`, and `Lexilla.dll` stay together in the same folder).
 2. **Double-click `cborg.exe`** to launch the workspace.
 3. **Open a file directly** from Command Prompt or a shortcut anytime:
