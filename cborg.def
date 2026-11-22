@@ -1,0 +1,20 @@
+LIBRARY cborg
+EXPORTS
+    EditorFrame_RegisterClass
+    EditorFrame_UnregisterClass
+    EditorFrame_Create
+    EditorFrame_Destroy
+    EditorFrame_GetScintillaHwnd
+    EditorFrame_AttachMenu
+    EditorFrame_SendCommand
+    EditorFrame_SetTheme
+    EditorFrame_SetLanguage
+    EditorFrame_SetViewFlags
+    EditorFrame_SetText
+    EditorFrame_GetTextAlloc
+    EditorFrame_FreeText
+    EditorFrame_FindNext
+    EditorFrame_GetCaretStats
+    EditorFrame_SetSavePoint
+    EditorFrame_IsModified
+    EditorFrame_InsertTemplate
