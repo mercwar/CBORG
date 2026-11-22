@@ -83,7 +83,7 @@ Right-click any file or folder in the sidebar to:
 
 ## ⌨️ Everyday Tips
 
-![cbrg](images/cbrg1.png)
+
 
 * **Browse Anywhere:** Expand any drive letter in the left tree to explore your whole PC without leaving the editor.
 * **Jump Through Big Files:** Use the **Symbol Outline** pane to hop straight to functions or definitions instead of scrolling endlessly.
