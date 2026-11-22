@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 What Is Cborg?
+## 🌈 What Is Cborg?
 
 **Cborg** (`cborg.exe`) is a fast, native Windows editor and workspace runner meant for MearcWar AI command line software.
 
