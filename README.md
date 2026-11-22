@@ -12,9 +12,7 @@
 
 <br/>
 
-[![MERCWAR AI](https://img.shields.io/badge/MERCWAR%20AI-Build%20%E2%80%A2%20Automate%20%E2%80%A2%20Innovate-FFD700?style=for-the-badge)](https://github.com/mercwar)
-[![Platform](https://img.shields.io/badge/Windows-x64%20Native-00F2FF?style=for-the-badge&logo=windows)](https://github.com/mercwar)
-[![Zero Bloat](https://img.shields.io/badge/Setup-Portable%20%E2%80%A2%20Zero%20Install-0078D6?style=for-the-badge)](https://github.com/mercwar)
+
 
 **Create Your Own Cyborg Workflow Today.**  
 *The fast, lightweight, zero-bloat Windows code editor, workspace explorer, and instant script launcher.*
