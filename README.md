@@ -53,7 +53,7 @@ No installers. No telemetry. No lag. Just double-click and go.
 
 ### 🖱️ One-Click Power Menu
 
-![cbrg](cbrg1.png)
+![cbrg](images/cbrg1.png)
 
 Right-click any file or folder in the sidebar to:
 * **Open File in Editor** — Load any text or source file immediately.
