@@ -1,18 +1,6 @@
 #### ⚙️ Cborg Editor
 ##### 💥 The long-awaited Cborg Browser!
-
-<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
-  <img
-    src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/refs/heads/main/Version%207/image_d2a07390.png"
-    alt="Mercwar Constellation"
-    style="width: 100%; height: auto;"
-  />
-</a>
-```markdown
 <div align="center">
-
-# ⚡ ...AND NOW, THE OFFICIAL **CBORG README** ⚡
-### *MERCWAR AI Presents — Talk in Cyborg to Every Human & Robot Out There!*
 
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
   <img
@@ -37,13 +25,19 @@
 
 ## 🚀 What Is Cborg?
 
-**Cborg** (`cborg.exe`) is a fast, native Windows editor and workspace runner built for developers, tinkerers, and power users who hate waiting on bloated software. Open any folder on your PC, browse your code, jump straight to any function, and run scripts or programs with a single right-click.
+**Cborg** (`cborg.exe`) is a fast, native Windows editor and workspace runner meant for MearcWar AI command line software.
+
+- Built for developers, tinkerers, and power users who hate waiting on bloated software.
+- Open any folder on your PC, browse your code, jump straight to any function, and run scripts or programs with a single right-click.
 
 No installers. No telemetry. No lag. Just double-click and go.
 
 ---
+![cbrg](images/cbrgrm.jpg)
 
-## ✨ Why You’ll Love It
+
+
+## ✨ Opens as fast as notpad,and  gives you lex formatting
 
 ### ⚡ Instant Startup & Crisp Editing
 * **Opens in a Blink:** Runs natively on Windows with zero heavy runtimes or background bloat.
@@ -52,10 +46,16 @@ No installers. No telemetry. No lag. Just double-click and go.
 * **Full View Control:** Toggle word wrap, whitespace markers, line endings, and indent guides with a click.
 
 ### 🗂️ Smart Dual-Pane Sidebar
+
+![cbrg](images/cbrg3.png)
+
 * **Instant Drive & Folder Explorer:** Browse every local and network drive on your machine without freezing or slow indexing. Double-click any file to open it immediately.
 * **Live Code Outline:** Automatically lists all **Types & Structs**, **Globals & Defines**, and **Functions** in your open file—click any symbol to jump straight to that line.
 
 ### 🖱️ One-Click Power Menu
+
+![cbrg](cbrg1.png)
+
 Right-click any file or folder in the sidebar to:
 * **Open File in Editor** — Load any text or source file immediately.
 * **Run File** — Launch `.exe`, `.bat`, `.cmd`, `.php`, `.py`, and other scripts right inside their own folder.
@@ -70,10 +70,12 @@ Right-click any file or folder in the sidebar to:
 1. **Download & Extract** the Cborg release folder anywhere on your PC (make sure `cborg.exe`, `cborg.dll`, `Scintilla.dll`, and `Lexilla.dll` stay together in the same folder).
 2. **Double-click `cborg.exe`** to launch the workspace.
 3. **Open a file directly** from Command Prompt or a shortcut anytime:
-   ```bat
+   
+```bat
    cborg.exe "C:\path\to\your\file.c"
-
 ```
+
+
 
 ---
 
@@ -88,3 +90,21 @@ Right-click any file or folder in the sidebar to:
 **MERCWAR AI** • *Build • Automate • Innovate*
 
 *The Native Windows Workspace & Automation Bridge for Modern Builders*
+### 📜 All files and repositories
+
+
+<div align="left">
+
+---
+
+<p style="color: #66ccff; letter-spacing: 2px; font-weight: bold; margin-bottom: 4px;">
+  &copy; 2026 CVBGOD Systems / MERCWAR Integration Team
+</p>
+<p style="color: #ffd700; font-size: 13px; letter-spacing: 1px; margin: 2px 0;">
+  All Rights Reserved.
+</p>
+<p style="color: #999999; font-size: 12px; margin-top: 4px;">
+  Unauthorized use, duplication, or distribution is strictly prohibited.
+</p>
+
+</div>
